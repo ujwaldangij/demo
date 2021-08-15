@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(#84a5da ,#c2e9fb,#667eea , #764ba2);
+    background-image: linear-gradient(#84a5da  , #764ba2);
 }
 .col-md-6,.col-md-12{
     border: 2px solid white;
@@ -36,4 +36,14 @@ ul{
     position: absolute;
     bottom: 0;
     right: 20px;
+}
+.x{
+    width: 200px;
+    height: 200px;
+    background-image: url(../images/i.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-right: auto;
+    margin-left: auto;
 }
